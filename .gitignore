@@ -1,0 +1,17 @@
+*.terraform
+*.out
+*.outputs
+*.output
+*.pem
+*.tfstate
+*.tfstate.backup
+*.lock.info
+*.ppk
+*.lock
+*.manifest.json.lock
+*.src
+*.zip
+*.lock.hcl
+*.terragrunt-cache
+_vault.json
+.DS_Store
